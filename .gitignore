@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.pyd
+
+# Virtual environment (uv-based)
+.venv/
+
+# uv specific
+.uv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model weights/checkpoints
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Other generated files
+*.pickle
+*.pkl
+*.h5
+*.onnx
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+.cache/
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
